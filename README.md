@@ -1,11 +1,7 @@
 # CS2050
 This repository stores the code from the labs I completed in the CS2050 course at Mizzou
-
-Course Overview:
-
-Here is the course summary for CS2050 formatted as requested:
-
 ---
+Course Overview:
 
 This is the course summary/calender for CS2050.
 
